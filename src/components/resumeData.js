@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl":"https://",
+    "imagebaseurl":"https://github.com/brodi-xx/react-portfolio/blob/main/public/images/profilepic.jpg?raw=true",
     "name": "Brodi LeBlanc",
     "role": "Frontend Developer and Data Scientist",
     "linkedinId":"Your LinkedIn Id",
